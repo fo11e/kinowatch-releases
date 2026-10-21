@@ -7,6 +7,15 @@
     <language>ru</language>
     <!-- Items are added by scripts/release.sh in the kinowatch repo; newest first. -->
     <item>
+      <title>Kinowatch 0.9.2</title>
+      <pubDate>Wed, 21 Oct 2026 11:15:11 GMT</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Tunnel: retry when the server drops the connection before login; show ssh's reason</pre>]]></description>
+      <enclosure url="https://github.com/fo11e/kinowatch-releases/releases/download/v0.9.2/Kinowatch-0.9.2.zip" type="application/octet-stream" sparkle:edSignature="UEWKR/yUW6IU4FIzbFsLJKDXfXzdo8IJccaFYOvyE9pQ4n5cTa3fC1mHREoNpu9ShMsyxCjcCKjhyWOifFPyAg==" length="4806913"/>
+    </item>
+    <item>
       <title>Kinowatch 0.9.1</title>
       <pubDate>Wed, 21 Oct 2026 11:07:35 GMT</pubDate>
       <sparkle:version>30</sparkle:version>
