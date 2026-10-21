@@ -7,6 +7,16 @@
     <language>ru</language>
     <!-- Items are added by scripts/release.sh in the kinowatch repo; newest first. -->
     <item>
+      <title>Kinowatch 0.9.1</title>
+      <pubDate>Wed, 21 Oct 2026 11:07:35 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Frosted-glass window background with a setting to turn it off
+- scripts/notarize.sh: notarize and staple an already signed build, publish nothing</pre>]]></description>
+      <enclosure url="https://github.com/fo11e/kinowatch-releases/releases/download/v0.9.1/Kinowatch-0.9.1.zip" type="application/octet-stream" sparkle:edSignature="HC4IrZfl0v2LJmb3K1LAcKoCWNwl3/ILYWkXYu4MmY/A15r0nJ8vgEPJTYZPWf+WlGLMXHlVaSwr7AMLtzVnBw==" length="4799715"/>
+    </item>
+    <item>
       <title>Kinowatch 0.9.0</title>
       <pubDate>Wed, 21 Oct 2026 11:05:31 GMT</pubDate>
       <sparkle:version>28</sparkle:version>
