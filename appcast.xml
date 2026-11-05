@@ -7,6 +7,16 @@
     <language>ru</language>
     <!-- Items are added by scripts/release.sh in the kinowatch repo; newest first. -->
     <item>
+      <title>Kinowatch 0.9.3</title>
+      <pubDate>Thu, 05 Nov 2026 11:03:56 GMT</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>- Исправить карточки и историю Kinowatch, убрать серверный туннель
+- iPad app: the Mac app's code and screens on iPadOS</pre>]]></description>
+      <enclosure url="https://github.com/fo11e/kinowatch-releases/releases/download/v0.9.3/Kinowatch-0.9.3.zip" type="application/octet-stream" sparkle:edSignature="aTXOsZ8usmoXZIIoeCsYYOw8SyRSVi9SUJgEx5G1Jm+lahNkRT52ZBIrtbjhhcE4jfUxbsGAQ6ZyVs/fBzYzBA==" length="4629186"/>
+    </item>
+    <item>
       <title>Kinowatch 0.9.2</title>
       <pubDate>Wed, 21 Oct 2026 11:15:11 GMT</pubDate>
       <sparkle:version>31</sparkle:version>
